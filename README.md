@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirtan Kamkar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-
+<p align="center">
 - 🔭 I’m currently working on **AirBnb Clone**
 
 - 🌱 I’m currently learning **ReactJS,Node,TypeScript,MondoDB**
@@ -10,6 +10,7 @@
 - 💬 Ask me about **JavaScript,Java,React**
 
 - 📫 How to reach me **kkamkar13@gmail.com**
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
