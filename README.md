@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirtan Kamkar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirtxn" alt="kirtxn" /></a> </p>
-
 - 🔭 I’m currently working on **AirBnb Clone**
 
 - 🌱 I’m currently learning **ReactJS,Node,TypeScript,MondoDB**
