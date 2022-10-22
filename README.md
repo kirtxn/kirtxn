@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 <p align="center">
 - 🔭 I’m currently working on **AirBnb Clone**
-
+<p align="center">
 - 🌱 I’m currently learning **ReactJS,Node,TypeScript,MondoDB**
-
+<p align="center">
 - 👯 I’m looking to collaborate on **Opensource FED Projects**
-
+<p align="center">
 - 💬 Ask me about **JavaScript,Java,React**
-
+<p align="center">
 - 📫 How to reach me **kkamkar13@gmail.com**
   </p>
 
