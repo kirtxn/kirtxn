@@ -12,7 +12,7 @@
 - 📫 How to reach me **kkamkar13@gmail.com**
   </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
